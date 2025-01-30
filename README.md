@@ -17,7 +17,7 @@ I'm a passionate developer with experience in various programming languages and 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
-![Zo](https://img.shields.io/badge/-Zo-000)
+![Zio](https://img.shields.io/badge/-Zio-000?&logo=Zio)
 ![Pinia](https://img.shields.io/badge/-Pinia-000?&logo=Pinia)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
